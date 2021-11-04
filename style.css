@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+    background-color: #696666;
+}
+.title {
+    font-size: 48px;
+    text-align: center;
+    padding: 30px;
+    border: 2px double blue;
+}
+.text {
+    font-size: 24px;
+    font-weight: 700;
+    color: #f6f1f1;
+}
+p:last-child {
+    margin-bottom: 0;
+}
